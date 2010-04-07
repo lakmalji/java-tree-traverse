@@ -1,0 +1,3 @@
+A simple example of modeling and traversing a file tree with the Neo4j graph database
+
+!http://github.com/neo4j-examples/java-tree-traverse/raw/master/src/main/model/nodespace.png!
